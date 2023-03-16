@@ -5,7 +5,7 @@ VITSトレーニングに基づく **targ 音声モデル**。現在、中国語
 
 #  本地部署
 
-1. 下载最新的 Release 包（在Github页面的右侧）。
+1. 下载最新的 Release 包（在 Github 页面的右侧）。
 2. 运行 `inference.exe`, 浏览器会自动弹出窗口, 注意其所在路径不能有中文字符或者空格。
 3. Have Fun XD。
 
